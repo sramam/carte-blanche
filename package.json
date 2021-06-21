@@ -1,0 +1,20 @@
+{
+  "name": "carte-blanche",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -d",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sramam",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.12.4",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "@swc/core": "^1.2.61"
+  }
+}
